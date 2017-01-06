@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="omar_allahm">Omar Allahm</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="_2016_bemaxnet_all_rights_reserved">© 2016 Bemaxnet. All rights reserved</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textPlaceHolder" translatable="false">...</string>
+
+
+    <string-array name="tabs">
+        <item>Personal</item>
+        <item>Experience</item>
+        <item>Education</item>
+        <item>Skills</item>
+        <item>Samples</item>
+    </string-array>
+
+</resources>

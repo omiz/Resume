@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emptyList" >
+        <item>@string/pullToScan</item>
+        <item>@string/welcomeNote</item>
+        <item>@string/updateNote</item>
+        <item>@string/app_name</item>
+        <item>@string/contactNote</item>
+    </string-array>
+    <string name="pullToScan">Do you know that you can pull down to start the check in process.</string>
+    <string name="welcomeNote">Seems like your haven\'t checked in yet. Please pull down to start.</string>
+    <string name="updateNote">Please check for update regularly to have all the new features.</string>
+    <string name="contactNote">If you have any suggestion please contact us.</string>
+
+    <string-array name="_0" >
+        <item>ic_profile::
+            Omar Allaham::
+            Software Engineed::
+            Stackoverflow: http://stackoverflow.com/users/6689101/zombie::
+            Stackoverflow: http://stackoverflow.com/users/6689101/zombie</item>
+
+        <item>::Address::Karl-Liebknecht-Str. 14\n01796 Pirna\nGermany</item>
+        <item>::Phone::+4915207389856</item>
+        <item>::Email::o.allaham@icloud.com</item>
+        <item>::Civil status::Single</item>
+        <item>::Birthday and place::15/09/1987 Damascus, Syria</item>
+        <item>::Nationality::Syrian</item>
+    </string-array>
+
+    <string-array name="_1" >
+        <item>::
+            February/2015 - Present::
+            Mobile app developer at Konsole-Labs::
+            Build native mobile apps using Java, Swift and Objective-c::
+            DAB+ application::
+            Breaking push (DW TV. is one of our customers)::
+            https://www.konsole-labs.com</item>
+
+        <item>::
+            December/2014 - December/2014::
+            One mouth internship at the foreigner office in Pirna::
+            Hardware delivery::
+            Cabling and installing a network::
+            Contact: Thomas.Kirsten@landratsamt-pirna.de</item>
+
+        <item>::
+            December/2014 - February/2016::
+            Volunteer at AWO and also at JMD in Pirna near Dresden::
+            German, English and Arabic interpreting and translating::
+            Contact: n.karsten@diakonie-pirna.de::
+            Contact: migration@awo-sonnenstein.de</item>
+
+        <item>::
+            December/2012 - October/2013::
+            Technical engineer at the Dalal-Steel Company in Beirut, Lebanon::
+            Company for the production and assembly of steel structures - drawings for buildings with AutoCAD::
+            Customer advice: Software and hardware installation and troubleshooting</item>
+
+        <item>::
+            October/2011 - December/2012::
+            Software developer at Perfect Systems in Damascus, Syria::
+            Storage management program with C # and LINQ::
+            Hotel reservation system with ASP.NET and MySQL::
+            Some website "e-commerce" with joomla and MySQL::
+            Medical record System for Al-Faranci Hospital in Damascus</item>
+
+        <item>::
+            September/2011 - December/2011::
+            Internship at Sa3eed in Damascus, Syria::
+            Software design using Blend &amp; Visual Studio</item>
+    </string-array>
+
+    <string-array name="_2" >
+        <item>::
+            September/2008 - September/2012::
+            Software Engineering in Daara, Syria at the International University for Science and Technology::
+            Link: http://iust.edu.sy/en/</item>
+
+        <item>::
+            September/2007 - October/2008::
+            Civil Engineering in Damascus University in Syria</item>
+    </string-array>
+
+    <string-array name="_3" >
+        <item>::Java</item>
+        <item>::Objective-c</item>
+        <item>::Swift</item>
+        <item>::C#</item>
+        <item>::ASP.net</item>
+        <item>::Javascript</item>
+        <item>::Angular 2</item>
+        <item>::Meteor</item>
+        <item>::MongoDB</item>
+        <item>::Python</item>
+    </string-array>
+
+    <string-array name="_4" >
+        <item>::
+            DAB+ Hybrid Radio App (Java)::
+            Radio Player::
+            Description: https://www.konsole-labs.com/index.php/2016/11/24/hybrid-dab-radio-app/?lang=en::
+            Google Play Store: https://play.google.com/store/apps/details?id=com.konsole_labs.dabPlus.de_free&amp;hl=de</item>
+
+        <item>::
+            Radio Gong (Java, Objective-c)::
+            Media / Entertainment::
+            Description: https://www.konsole-labs.com/?portfolio=radio-gong&amp;lang=en::
+            Google Play Store: https://play.google.com/store/apps/details?id=com.privatfunk.Gong::
+            App Store: https://itunes.apple.com/de/app/gong-96-3/id335163385?mt=8</item>
+
+        <item>::
+            boerse.ARD (Java, Objective-c)::
+            Finance::
+            Google Play Store: https://play.google.com/store/apps/details?id=de.ard.boerse&amp;hl=de::
+            App Store: https://itunes.apple.com/de/app/boerse.ard/id1151110657?mt=8</item>
+
+        <item>::
+            Schwarzwaldradio (Java, Objective-c)::
+            Radio::
+            Description: https://www.konsole-labs.com/?portfolio=schwarzwaldradio&amp;lang=en</item>
+
+        <item>::
+            DLF24 App (Java, Swift)::
+            Media / Entertainment / News::
+            Description: https://www.konsole-labs.com/?portfolio=dlf24-app&amp;lang=en::
+            Google Play Store: https://play.google.com/store/apps/details?id=de.deutschlandradio.dlf24::
+            App Store: https://itunes.apple.com/de/app/dlf24/id1066252920?mt=8</item>
+
+        <item>::
+            SWR3 (Java, Swift)::
+            Multi-service::
+            Description: http://www.swr3.de/mehr/swr3-app/SWR3-App-jetzt-auch-mit-DAB/-/id=614094/did=2635560/1t5iysf/index.html::
+            Google Play Store: http://www.swr3.de/cmwebapp/util/redir.jsp?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.swr.swr3radio::
+            App Store: http://www.swr3.de/cmwebapp/util/redir.jsp?url=https%3A%2F%2Fitunes.apple.com%2Fde%2Fapp%2Fswr3-radio%2Fid809956389%3Fmt%3D8</item>
+
+        <item>::
+            SWR2 (Cordova)::
+            Radio::
+            Description: http://www.swr.de/swr2/swr2-apps/-/id=7576/did=5320700/nid=7576/1mmtjd7/index.html::
+            Google Play Store: https://play.google.com/store/apps/details?id=de.swr.swr2radio::
+            App Store: https://itunes.apple.com/de/app/swr2-radio/id814462854?mt=8</item>
+
+        <item>::
+            In addition to other projects in progress::
+            Swift, Java, asp.net, NFC</item>
+
+    </string-array>
+
+</resources>
